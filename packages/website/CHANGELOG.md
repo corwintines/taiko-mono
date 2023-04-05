@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.6.0](https://github.com/taikoxyz/taiko-mono/compare/website-v0.5.0...website-v0.6.0) (2023-04-05)
+
+
+### Features
+
+* **website:** add index sections to reference and resources ([#13490](https://github.com/taikoxyz/taiko-mono/issues/13490)) ([d1768d4](https://github.com/taikoxyz/taiko-mono/commit/d1768d4224cce4b2148b0b467203c164b86ea238))
+
 ## [0.5.0](https://github.com/taikoxyz/taiko-mono/compare/website-v0.4.1...website-v0.5.0) (2023-03-29)
 
 
